@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="qc_financial",
-    version="0.0.3",
+    version="0.0.4",
     author="Alvaro Díaz",
     author_email="alvaro@efaa.cl",
     description="QC_Financial",
